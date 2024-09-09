@@ -1,3 +1,4 @@
+# This project was written to check the validity of the national code . 
 from os import system
 def test_code(code):
     rest=False
